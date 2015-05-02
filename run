@@ -1,0 +1,1 @@
+docker run --name bind -d -p 53:53 -p 53:53/udp itwars/rpi-bind
